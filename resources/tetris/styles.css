@@ -1,0 +1,19 @@
+#tetris
+{
+
+    -fx-background-image: url('background.jpg');
+}
+.label, .check-box
+{
+    -fx-text-fill: white;
+}
+
+.label.score
+{
+    -fx-font-size: 2em;
+}
+
+#infoBox {
+          -fx-background-color:rgba(0,0,0,0.8);
+          -fx-border-color: #000000;
+}
